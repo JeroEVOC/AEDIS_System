@@ -54,6 +54,7 @@ This pipeline was developed using Google Drive and Jupyter Notebook.  The core c
 * This pipeline is designed to be run within the Google Drive/Jupyter Notebook environment.
 * Ensure you have the necessary Google Cloud credentials and API keys set up (update all the corresponding sections of the entire codes with your credentials).
 * You will need to configure the MongoDB and Milvus connections.
+* You will find some of the Generated reports (each at different stage of finetuning process) in the GeneratedReports branch.
 
 ## Setup Instructions (General)
 
